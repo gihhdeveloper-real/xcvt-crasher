@@ -1,0 +1,26 @@
+[
+  {
+    "username": "mexx",
+    "password": "mexx",
+    "role": "ADMIN",
+    "expired": "2029-12-31T23:59:59.000Z"
+  },
+  {
+    "username": "juan",
+    "password": "juan",
+    "role": "ADMIN",
+    "expired": "2029-12-31T23:59:59.000Z"
+  },
+  {
+    "username": "dry",
+    "password": "dry",
+    "role": "ADMIN",
+    "expired": "2029-12-31T23:59:59.000Z"
+  },
+  {
+    "username": "test",
+    "password": "123",
+    "role": "VIP",
+    "expired": "2029-10-15T23:59:59.000Z"
+  }
+]
